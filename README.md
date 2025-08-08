@@ -57,7 +57,7 @@ Akhuwat-Library-Management-System/
 │── /assets/ # CSS, JS, and images
 │── /database/ # MySQL database scripts
 │── README.md # Project description
-![images]()
+![images](web.jpeg)
 
 ## 🧑‍💻 My Role in Development
 - 📊 Designed the **database** (ERD + normalization)  
