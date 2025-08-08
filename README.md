@@ -80,7 +80,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 💌 Contact
-**Developer:** M.A. Ulfat  
+**Developer:** M.Asamullah Ulfat & Kashif Jilani  
 📧 Email: *bazmeulfat786@gamil.com*  
 ## 📱 Connect with Me  
 
