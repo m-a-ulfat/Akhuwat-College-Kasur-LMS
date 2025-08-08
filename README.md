@@ -4,7 +4,7 @@
 
 The **Akhuwat Library Management System (ALMS)** is a custom-built, web-based solution developed for **Akhuwat Institute Kasur** to digitalize and streamline library operations.  
 
-Since 2020, the institute’s library—established in collaboration with **Chughtai Lab**—has been operating on the open-source **Koha** platform. While functional, Koha has notable limitations such as:  
+Since 2020, the institute’s library established in collaboration with **Chughtai Lab** has been operating on the open-source **Koha** platform. While functional, Koha has notable limitations such as:  
 - Limited integration and customization options  
 - No commercial support  
 - Lack of budgeting and audit account features  
