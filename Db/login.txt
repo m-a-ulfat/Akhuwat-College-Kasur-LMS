@@ -1,0 +1,12 @@
+admin login
+email:  kashifjilani131@gmail.com
+password: admin
+
+
+staff login:
+email:  
+password: 
+
+user login:
+email:  
+password: 
