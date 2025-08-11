@@ -81,13 +81,21 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💌 Contact
 **Developer:** M.Asamullah Ulfat & Kashif Jilani  
-📧 Email: *bazmeulfat786@gamil.com*  
-## 📱 Connect with Me  
+📧 **Email:** [bazmeulfat786@gmail.com](mailto:bazmeulfat786@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-a-ulfat/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.a._ulfat/)  
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/MAUlfat7)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086778335996)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@m.a.ulfat1)  
+---
 
- 
+## 🌐 Connect with Me on social media 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-a-ulfat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/m.a._ulfat/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/MAUlfat7">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100086778335996">
+    <img src="https://img.shields.io/badge/Facebook-18
