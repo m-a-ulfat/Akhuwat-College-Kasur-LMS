@@ -2,9 +2,9 @@
 
 ## 📄 Project Summary  
 
-The **Akhuwat Library Management System (ALMS)** is a custom-built, web-based solution developed for **Akhuwat Institute Kasur** to digitalize and streamline library operations.  
+The **Akhuwat Library Management System (ALMS)** is a custom-built, web-based solution developed for **Akhuwat College University Kasur** to digitalize and streamline library operations.  
 
-Since 2020, the institute’s library established in collaboration with **Chughtai Lab** has been operating on the open-source **Koha** platform. While functional, Koha has notable limitations such as:  
+Since 2020, the institute’s library, established in collaboration with **Chughtai Lab** has been operating on the open-source **Koha** platform. While functional, Koha has notable limitations, such as:  
 - Limited integration and customization options  
 - No commercial support  
 - Lack of budgeting and audit account features  
@@ -13,7 +13,7 @@ Since 2020, the institute’s library established in collaboration with **Chught
 - Complexity for non-technical users  
 - Limited vendor support  
 
-To overcome these challenges, **ALMS** was developed with:  
+## To overcome these challenges, **ALMS** was developed with:  
 - **Role-Based Access** for Admin, Librarian, and Student/Teacher dashboards  
 - **Fine & Audit Management** for transparent record-keeping  
 - **Vendor & Archives Management** with efficient tracking  
@@ -57,6 +57,8 @@ Akhuwat-Library-Management-System/
 │── /assets/ # CSS, JS, and images
 │── /database/ # MySQL database scripts
 │── README.md # Project description
+
+## Web Home Page
 ![images](web1.jpeg)
 
 ## 🧑‍💻 My Role in Development
@@ -68,19 +70,13 @@ Akhuwat-Library-Management-System/
 ---
 
 ## 🎯 Outcome
-- ✅ Implemented at **Akhuwat College Kasur**  
+- ✅ Implemented at **Akhuwat College University Kasur**  
 - ⏱ Reduced book issuing/return time by **60%**  
 - 📈 Improved accuracy & accessibility of library records  
 
 ---
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
 ## 💌 Contact
-**Developer:** M.Asamullah Ulfat & Kashif Jilani  
+**Developers:** M.Asamullah Ulfat & Kashif Jilani Sahib
 📧 **Email:** [bazmeulfat786@gmail.com](mailto:bazmeulfat786@gmail.com)  
 
 ---
